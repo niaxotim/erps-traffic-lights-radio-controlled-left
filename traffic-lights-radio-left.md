@@ -8,6 +8,7 @@
 In this challenge, we are going to use two traffic lights, with radio controls to alternate traffic light sequences. This will require two BBC micro:bits!  
 The code in this tutorial will be for one traffic light, with code in the paired tutorial being for the other light.
 This form of radio control will be using a 'passing a token method' of control system.  
+This code is for what we will call the 'left' traffic light.
 
 ## Basic radio trigger
 ### Step 1
