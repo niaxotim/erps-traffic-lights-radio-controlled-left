@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-kitronik-stopbit": "github:kitronikltd/pxt-kitronik-stopbit#v1.1.2"
     },
     "files": [
         "main.blocks",
