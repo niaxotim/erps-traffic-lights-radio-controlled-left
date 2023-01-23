@@ -6,7 +6,7 @@ radio.onReceivedString(function (receivedString) {
         Start_Lights = true
     }
 })
-let Start_Lights: Boolean
+let Start_Lights = false
 radio.setGroup(1)
 Kitronik_STOPbit.trafficLightState(Kitronik_STOPbit.LightStates.Stop)
 basic.forever(function () {
