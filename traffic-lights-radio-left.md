@@ -30,7 +30,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-
+## Traffic Light sequence
 ### Step 3
 Now let's add in some code so that the lights can do the traffic light sequence.  
 Add a ``||Kitronik_STOPbit.Make Traffic Light state||`` block after ``||radio:set group||`` and set it to ``||Kitronik_STOPbit.Stop||``.
