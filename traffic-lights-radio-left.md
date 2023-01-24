@@ -153,3 +153,8 @@ basic.forever(function () {
 
 ### Step 11
 Connect your transmitter BBC micro:bit and click ``|Download|``.
+
+### Traffic Light Tutorial Complete @unplugged
+Great work! You've got one set of lights working - now let's see if you can get the other one to work too!
+Way to go! ;)
+![Great job](https://raw.githubusercontent.com/niaxotim/erps-traffic-lights-radio-controlled-left/master/assets/great_job.png)
