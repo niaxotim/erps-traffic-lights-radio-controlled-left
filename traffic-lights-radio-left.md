@@ -19,7 +19,7 @@ This code is for what we will call the 'left' traffic light.
 ## Basic radio trigger
 ### Step 1
 micro:bit radios talk in groups. We need to set a radio group for the two micro:bits so that they will communicate with each other. The group can be any number from 1-255 - you should use any of the numbers assigned to you. If there are several micro:bit radio pairs then each pair should use a different number.  
-From the ``||radio:Radio||`` cateogry, place the ``||radio:set group||`` block into the ``||basic: on start||`` section and set the group to 1.
+From the ``||radio:Radio||`` cateogry, place the ``||radio:set group||`` block into the ``||basic: on start||`` section and set the group to your assigned channel number.
 
 #### ~ tutorialhint
 ```blocks
